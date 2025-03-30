@@ -1,5 +1,5 @@
 # Title
-"EKG data analysis"
+"ECG data analysis"
 
 ## Team Members
 - Andres Avila (aavila4)
