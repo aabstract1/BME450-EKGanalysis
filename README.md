@@ -1,1 +1,6 @@
-# BME450-EKGanalysis
+# Title
+"EKG data analysis"
+
+##Team Members
+- Andres Avila
+- Rohit Sirigiri
